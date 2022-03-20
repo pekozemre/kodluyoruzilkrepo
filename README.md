@@ -21,3 +21,5 @@ code
 ## Contributing 
 
 Pull requestler talep edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
